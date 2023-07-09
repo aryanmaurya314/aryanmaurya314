@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Intuparcel](https://intugine.com/)
 
-- 🌱 I’m currently learning **NextJs, Typescript, Tailwind CSS, Redux, React Native**
+- 🌱 I’m currently learning **AWS, Docker, Kubernetes, Problem Solving and Advance DSA**
 
 - 👨‍💻 All of my projects are available at [https://aryanmaurya314.github.io/portfolio-js](https://aryanmaurya314.github.io/portfolio-js)
 
